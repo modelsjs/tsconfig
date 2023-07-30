@@ -16,7 +16,10 @@
     "noEmitOnError": true,
     "experimentalDecorators": true,
     "allowJs": true,
-    "jsx": "react"
+    "jsx": "react",
+    "types": [
+      "modelsjs"
+    ]
   },
   "ts-node": {
     "esm": true,
