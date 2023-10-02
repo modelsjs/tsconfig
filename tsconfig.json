@@ -17,6 +17,9 @@
     "experimentalDecorators": true,
     "allowJs": true,
     "jsx": "react",
+    "typeRoots": [
+      "./"
+    ],
     "types": [
       "modelsjs"
     ]
